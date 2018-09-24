@@ -1,6 +1,6 @@
 package com.mycompany.getmaven;
 
-public class GitClass {
+public class TestingP {
     public void Keepo()
     {
         System.out.println("Kappa");

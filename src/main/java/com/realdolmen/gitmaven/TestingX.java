@@ -9,7 +9,7 @@ package com.realdolmen.gitmaven;
  *
  * @author Michael
  */
-public class GitClass {
+public class TestingX {
     
     public void test()
     {
